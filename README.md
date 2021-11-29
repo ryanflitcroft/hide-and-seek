@@ -1,6 +1,7 @@
 # Hide and Seek
 
 ## Learning Objectives
+
 - Identify and describe the core JavaScript types: strings, numbers, objects, arrays, undefined/null, and booleans.
 - Describe the difference between let and const, and describe when each is useful.
 - Describe the relationship between state and view in an application.
@@ -19,12 +20,11 @@
 - Use a truthy/falsey expression in an if/else statement to perform an action conditionally
 - Describe the difference between (and give examples of) true  and truthy, false  and falsey values.
 
-
 [Buggy Hide and Seek](https://github.com/alchemycodelab/buggy-js-hide-and-seek/)
 
 ### Live Example:
-https://alchemycodelab.github.io/js-hide-and-seek/
 
+<https://alchemycodelab.github.io/js-hide-and-seek/>
 
 | User should be able to . . .                                                         |             |
 | :----------------------------------------------------------------------------------- | ----------: |
